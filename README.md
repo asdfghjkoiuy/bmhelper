@@ -13,3 +13,7 @@ It is a tool to make BMS creation easier by creating MIDI files that reduce the 
 * wxWidgets 3.x support
 * Fixed zz_enabled not being saved to bmh files (breaks older versions' forwards compatibility)
 * More modern C++ (17)
+
+Added macOS compatibility to let you make bms on a mac.
+
+and bmson compatibility is coming soon...
