@@ -76,8 +76,8 @@ public:
 		definitions.clear();
 	}
 
-	virtual bool read_tree(TreeNode &node);
-	virtual bool write_tree(TreeNode &node);
+	virtual bool read_tree(TreeNode &node) override;
+	virtual bool write_tree(TreeNode &node) override;
 
 	const wxString &get_name(){ return name; }
 	void set_name(const wxString &_n){ name = _n; }

@@ -243,7 +243,7 @@ public:
     void OnOK(wxCommandEvent &WXUNUSED(ev)) {
         wxString s = edit->GetValue();
         if (s.length() != 2 || !data.from_string(s) || (!zz_enabled && !data.in_ff())) {
-            MessageBeep(0); // windows
+            wxBell(); // windows
             return;
         }
         this->EndDialog(wxID_OK);
@@ -352,7 +352,7 @@ DECLARE_EVENT_TABLE()
 wxBEGIN_EVENT_TABLE(DefDialog, wxDialog)
     EVT_COMMAND(DefDialog::ID_COPY, wxEVT_COMMAND_BUTTON_CLICKED, DefDialog::OnCopy)
     EVT_SIZE(DefDialog::OnSize)
-    EVT_TEXT(DefDialog::ID_Name, OnNameUpdate)
+    EVT_TEXT(DefDialog::ID_Name, DefDialog::OnNameUpdate)
 wxEND_EVENT_TABLE()
 
 void DivisionEditor::DefOut() {

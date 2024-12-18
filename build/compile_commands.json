@@ -1,0 +1,110 @@
+[
+{
+  "directory": "/Users/guanhao/VSCodeAlgorithmTrain/CMake/bmhelper/build",
+  "command": "/usr/bin/clang++ -DWXUSINGDLL -D_FILE_OFFSET_BITS=64 -D__WXMAC__ -D__WXOSX_COCOA__ -D__WXOSX__ -I/Users/guanhao/VSCodeAlgorithmTrain/CMake/bmhelper/src -I/opt/homebrew/include -isystem /opt/homebrew/lib/wx/include/osx_cocoa-unicode-3.2 -isystem /opt/homebrew/include/wx-3.2 -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -o CMakeFiles/bmhelper.dir/src/app.cpp.o -c /Users/guanhao/VSCodeAlgorithmTrain/CMake/bmhelper/src/app.cpp",
+  "file": "/Users/guanhao/VSCodeAlgorithmTrain/CMake/bmhelper/src/app.cpp",
+  "output": "CMakeFiles/bmhelper.dir/src/app.cpp.o"
+},
+{
+  "directory": "/Users/guanhao/VSCodeAlgorithmTrain/CMake/bmhelper/build",
+  "command": "/usr/bin/clang++ -DWXUSINGDLL -D_FILE_OFFSET_BITS=64 -D__WXMAC__ -D__WXOSX_COCOA__ -D__WXOSX__ -I/Users/guanhao/VSCodeAlgorithmTrain/CMake/bmhelper/src -I/opt/homebrew/include -isystem /opt/homebrew/lib/wx/include/osx_cocoa-unicode-3.2 -isystem /opt/homebrew/include/wx-3.2 -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -o CMakeFiles/bmhelper.dir/src/Configuration.cpp.o -c /Users/guanhao/VSCodeAlgorithmTrain/CMake/bmhelper/src/Configuration.cpp",
+  "file": "/Users/guanhao/VSCodeAlgorithmTrain/CMake/bmhelper/src/Configuration.cpp",
+  "output": "CMakeFiles/bmhelper.dir/src/Configuration.cpp.o"
+},
+{
+  "directory": "/Users/guanhao/VSCodeAlgorithmTrain/CMake/bmhelper/build",
+  "command": "/usr/bin/clang++ -DWXUSINGDLL -D_FILE_OFFSET_BITS=64 -D__WXMAC__ -D__WXOSX_COCOA__ -D__WXOSX__ -I/Users/guanhao/VSCodeAlgorithmTrain/CMake/bmhelper/src -I/opt/homebrew/include -isystem /opt/homebrew/lib/wx/include/osx_cocoa-unicode-3.2 -isystem /opt/homebrew/include/wx-3.2 -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -o CMakeFiles/bmhelper.dir/src/defview.cpp.o -c /Users/guanhao/VSCodeAlgorithmTrain/CMake/bmhelper/src/defview.cpp",
+  "file": "/Users/guanhao/VSCodeAlgorithmTrain/CMake/bmhelper/src/defview.cpp",
+  "output": "CMakeFiles/bmhelper.dir/src/defview.cpp.o"
+},
+{
+  "directory": "/Users/guanhao/VSCodeAlgorithmTrain/CMake/bmhelper/build",
+  "command": "/usr/bin/clang++ -DWXUSINGDLL -D_FILE_OFFSET_BITS=64 -D__WXMAC__ -D__WXOSX_COCOA__ -D__WXOSX__ -I/Users/guanhao/VSCodeAlgorithmTrain/CMake/bmhelper/src -I/opt/homebrew/include -isystem /opt/homebrew/lib/wx/include/osx_cocoa-unicode-3.2 -isystem /opt/homebrew/include/wx-3.2 -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -o CMakeFiles/bmhelper.dir/src/divedit.cpp.o -c /Users/guanhao/VSCodeAlgorithmTrain/CMake/bmhelper/src/divedit.cpp",
+  "file": "/Users/guanhao/VSCodeAlgorithmTrain/CMake/bmhelper/src/divedit.cpp",
+  "output": "CMakeFiles/bmhelper.dir/src/divedit.cpp.o"
+},
+{
+  "directory": "/Users/guanhao/VSCodeAlgorithmTrain/CMake/bmhelper/build",
+  "command": "/usr/bin/clang++ -DWXUSINGDLL -D_FILE_OFFSET_BITS=64 -D__WXMAC__ -D__WXOSX_COCOA__ -D__WXOSX__ -I/Users/guanhao/VSCodeAlgorithmTrain/CMake/bmhelper/src -I/opt/homebrew/include -isystem /opt/homebrew/lib/wx/include/osx_cocoa-unicode-3.2 -isystem /opt/homebrew/include/wx-3.2 -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -o CMakeFiles/bmhelper.dir/src/division.cpp.o -c /Users/guanhao/VSCodeAlgorithmTrain/CMake/bmhelper/src/division.cpp",
+  "file": "/Users/guanhao/VSCodeAlgorithmTrain/CMake/bmhelper/src/division.cpp",
+  "output": "CMakeFiles/bmhelper.dir/src/division.cpp.o"
+},
+{
+  "directory": "/Users/guanhao/VSCodeAlgorithmTrain/CMake/bmhelper/build",
+  "command": "/usr/bin/clang++ -DWXUSINGDLL -D_FILE_OFFSET_BITS=64 -D__WXMAC__ -D__WXOSX_COCOA__ -D__WXOSX__ -I/Users/guanhao/VSCodeAlgorithmTrain/CMake/bmhelper/src -I/opt/homebrew/include -isystem /opt/homebrew/lib/wx/include/osx_cocoa-unicode-3.2 -isystem /opt/homebrew/include/wx-3.2 -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -o CMakeFiles/bmhelper.dir/src/divview.cpp.o -c /Users/guanhao/VSCodeAlgorithmTrain/CMake/bmhelper/src/divview.cpp",
+  "file": "/Users/guanhao/VSCodeAlgorithmTrain/CMake/bmhelper/src/divview.cpp",
+  "output": "CMakeFiles/bmhelper.dir/src/divview.cpp.o"
+},
+{
+  "directory": "/Users/guanhao/VSCodeAlgorithmTrain/CMake/bmhelper/build",
+  "command": "/usr/bin/clang++ -DWXUSINGDLL -D_FILE_OFFSET_BITS=64 -D__WXMAC__ -D__WXOSX_COCOA__ -D__WXOSX__ -I/Users/guanhao/VSCodeAlgorithmTrain/CMake/bmhelper/src -I/opt/homebrew/include -isystem /opt/homebrew/lib/wx/include/osx_cocoa-unicode-3.2 -isystem /opt/homebrew/include/wx-3.2 -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -o CMakeFiles/bmhelper.dir/src/frame.cpp.o -c /Users/guanhao/VSCodeAlgorithmTrain/CMake/bmhelper/src/frame.cpp",
+  "file": "/Users/guanhao/VSCodeAlgorithmTrain/CMake/bmhelper/src/frame.cpp",
+  "output": "CMakeFiles/bmhelper.dir/src/frame.cpp.o"
+},
+{
+  "directory": "/Users/guanhao/VSCodeAlgorithmTrain/CMake/bmhelper/build",
+  "command": "/usr/bin/clang++ -DWXUSINGDLL -D_FILE_OFFSET_BITS=64 -D__WXMAC__ -D__WXOSX_COCOA__ -D__WXOSX__ -I/Users/guanhao/VSCodeAlgorithmTrain/CMake/bmhelper/src -I/opt/homebrew/include -isystem /opt/homebrew/lib/wx/include/osx_cocoa-unicode-3.2 -isystem /opt/homebrew/include/wx-3.2 -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -o CMakeFiles/bmhelper.dir/src/mdview.cpp.o -c /Users/guanhao/VSCodeAlgorithmTrain/CMake/bmhelper/src/mdview.cpp",
+  "file": "/Users/guanhao/VSCodeAlgorithmTrain/CMake/bmhelper/src/mdview.cpp",
+  "output": "CMakeFiles/bmhelper.dir/src/mdview.cpp.o"
+},
+{
+  "directory": "/Users/guanhao/VSCodeAlgorithmTrain/CMake/bmhelper/build",
+  "command": "/usr/bin/clang++ -DWXUSINGDLL -D_FILE_OFFSET_BITS=64 -D__WXMAC__ -D__WXOSX_COCOA__ -D__WXOSX__ -I/Users/guanhao/VSCodeAlgorithmTrain/CMake/bmhelper/src -I/opt/homebrew/include -isystem /opt/homebrew/lib/wx/include/osx_cocoa-unicode-3.2 -isystem /opt/homebrew/include/wx-3.2 -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -o CMakeFiles/bmhelper.dir/src/midi_smfin.cpp.o -c /Users/guanhao/VSCodeAlgorithmTrain/CMake/bmhelper/src/midi_smfin.cpp",
+  "file": "/Users/guanhao/VSCodeAlgorithmTrain/CMake/bmhelper/src/midi_smfin.cpp",
+  "output": "CMakeFiles/bmhelper.dir/src/midi_smfin.cpp.o"
+},
+{
+  "directory": "/Users/guanhao/VSCodeAlgorithmTrain/CMake/bmhelper/build",
+  "command": "/usr/bin/clang++ -DWXUSINGDLL -D_FILE_OFFSET_BITS=64 -D__WXMAC__ -D__WXOSX_COCOA__ -D__WXOSX__ -I/Users/guanhao/VSCodeAlgorithmTrain/CMake/bmhelper/src -I/opt/homebrew/include -isystem /opt/homebrew/lib/wx/include/osx_cocoa-unicode-3.2 -isystem /opt/homebrew/include/wx-3.2 -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -o CMakeFiles/bmhelper.dir/src/midi_smfout.cpp.o -c /Users/guanhao/VSCodeAlgorithmTrain/CMake/bmhelper/src/midi_smfout.cpp",
+  "file": "/Users/guanhao/VSCodeAlgorithmTrain/CMake/bmhelper/src/midi_smfout.cpp",
+  "output": "CMakeFiles/bmhelper.dir/src/midi_smfout.cpp.o"
+},
+{
+  "directory": "/Users/guanhao/VSCodeAlgorithmTrain/CMake/bmhelper/build",
+  "command": "/usr/bin/clang++ -DWXUSINGDLL -D_FILE_OFFSET_BITS=64 -D__WXMAC__ -D__WXOSX_COCOA__ -D__WXOSX__ -I/Users/guanhao/VSCodeAlgorithmTrain/CMake/bmhelper/src -I/opt/homebrew/include -isystem /opt/homebrew/lib/wx/include/osx_cocoa-unicode-3.2 -isystem /opt/homebrew/include/wx-3.2 -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -o CMakeFiles/bmhelper.dir/src/midi_sr.cpp.o -c /Users/guanhao/VSCodeAlgorithmTrain/CMake/bmhelper/src/midi_sr.cpp",
+  "file": "/Users/guanhao/VSCodeAlgorithmTrain/CMake/bmhelper/src/midi_sr.cpp",
+  "output": "CMakeFiles/bmhelper.dir/src/midi_sr.cpp.o"
+},
+{
+  "directory": "/Users/guanhao/VSCodeAlgorithmTrain/CMake/bmhelper/build",
+  "command": "/usr/bin/clang++ -DWXUSINGDLL -D_FILE_OFFSET_BITS=64 -D__WXMAC__ -D__WXOSX_COCOA__ -D__WXOSX__ -I/Users/guanhao/VSCodeAlgorithmTrain/CMake/bmhelper/src -I/opt/homebrew/include -isystem /opt/homebrew/lib/wx/include/osx_cocoa-unicode-3.2 -isystem /opt/homebrew/include/wx-3.2 -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -o CMakeFiles/bmhelper.dir/src/project.cpp.o -c /Users/guanhao/VSCodeAlgorithmTrain/CMake/bmhelper/src/project.cpp",
+  "file": "/Users/guanhao/VSCodeAlgorithmTrain/CMake/bmhelper/src/project.cpp",
+  "output": "CMakeFiles/bmhelper.dir/src/project.cpp.o"
+},
+{
+  "directory": "/Users/guanhao/VSCodeAlgorithmTrain/CMake/bmhelper/build",
+  "command": "/usr/bin/clang++ -DWXUSINGDLL -D_FILE_OFFSET_BITS=64 -D__WXMAC__ -D__WXOSX_COCOA__ -D__WXOSX__ -I/Users/guanhao/VSCodeAlgorithmTrain/CMake/bmhelper/src -I/opt/homebrew/include -isystem /opt/homebrew/lib/wx/include/osx_cocoa-unicode-3.2 -isystem /opt/homebrew/include/wx-3.2 -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -o CMakeFiles/bmhelper.dir/src/smf_accs.cpp.o -c /Users/guanhao/VSCodeAlgorithmTrain/CMake/bmhelper/src/smf_accs.cpp",
+  "file": "/Users/guanhao/VSCodeAlgorithmTrain/CMake/bmhelper/src/smf_accs.cpp",
+  "output": "CMakeFiles/bmhelper.dir/src/smf_accs.cpp.o"
+},
+{
+  "directory": "/Users/guanhao/VSCodeAlgorithmTrain/CMake/bmhelper/build",
+  "command": "/usr/bin/clang++ -DWXUSINGDLL -D_FILE_OFFSET_BITS=64 -D__WXMAC__ -D__WXOSX_COCOA__ -D__WXOSX__ -I/Users/guanhao/VSCodeAlgorithmTrain/CMake/bmhelper/src -I/opt/homebrew/include -isystem /opt/homebrew/lib/wx/include/osx_cocoa-unicode-3.2 -isystem /opt/homebrew/include/wx-3.2 -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -o CMakeFiles/bmhelper.dir/src/smf_data.cpp.o -c /Users/guanhao/VSCodeAlgorithmTrain/CMake/bmhelper/src/smf_data.cpp",
+  "file": "/Users/guanhao/VSCodeAlgorithmTrain/CMake/bmhelper/src/smf_data.cpp",
+  "output": "CMakeFiles/bmhelper.dir/src/smf_data.cpp.o"
+},
+{
+  "directory": "/Users/guanhao/VSCodeAlgorithmTrain/CMake/bmhelper/build",
+  "command": "/usr/bin/clang++ -DWXUSINGDLL -D_FILE_OFFSET_BITS=64 -D__WXMAC__ -D__WXOSX_COCOA__ -D__WXOSX__ -I/Users/guanhao/VSCodeAlgorithmTrain/CMake/bmhelper/src -I/opt/homebrew/include -isystem /opt/homebrew/lib/wx/include/osx_cocoa-unicode-3.2 -isystem /opt/homebrew/include/wx-3.2 -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -o CMakeFiles/bmhelper.dir/src/smf_event.cpp.o -c /Users/guanhao/VSCodeAlgorithmTrain/CMake/bmhelper/src/smf_event.cpp",
+  "file": "/Users/guanhao/VSCodeAlgorithmTrain/CMake/bmhelper/src/smf_event.cpp",
+  "output": "CMakeFiles/bmhelper.dir/src/smf_event.cpp.o"
+},
+{
+  "directory": "/Users/guanhao/VSCodeAlgorithmTrain/CMake/bmhelper/build",
+  "command": "/usr/bin/clang++ -DWXUSINGDLL -D_FILE_OFFSET_BITS=64 -D__WXMAC__ -D__WXOSX_COCOA__ -D__WXOSX__ -I/Users/guanhao/VSCodeAlgorithmTrain/CMake/bmhelper/src -I/opt/homebrew/include -isystem /opt/homebrew/lib/wx/include/osx_cocoa-unicode-3.2 -isystem /opt/homebrew/include/wx-3.2 -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -o CMakeFiles/bmhelper.dir/src/srcview.cpp.o -c /Users/guanhao/VSCodeAlgorithmTrain/CMake/bmhelper/src/srcview.cpp",
+  "file": "/Users/guanhao/VSCodeAlgorithmTrain/CMake/bmhelper/src/srcview.cpp",
+  "output": "CMakeFiles/bmhelper.dir/src/srcview.cpp.o"
+},
+{
+  "directory": "/Users/guanhao/VSCodeAlgorithmTrain/CMake/bmhelper/build",
+  "command": "/usr/bin/clang++ -DWXUSINGDLL -D_FILE_OFFSET_BITS=64 -D__WXMAC__ -D__WXOSX_COCOA__ -D__WXOSX__ -I/Users/guanhao/VSCodeAlgorithmTrain/CMake/bmhelper/src -I/opt/homebrew/include -isystem /opt/homebrew/lib/wx/include/osx_cocoa-unicode-3.2 -isystem /opt/homebrew/include/wx-3.2 -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -o CMakeFiles/bmhelper.dir/src/AudioSplitter.cpp.o -c /Users/guanhao/VSCodeAlgorithmTrain/CMake/bmhelper/src/AudioSplitter.cpp",
+  "file": "/Users/guanhao/VSCodeAlgorithmTrain/CMake/bmhelper/src/AudioSplitter.cpp",
+  "output": "CMakeFiles/bmhelper.dir/src/AudioSplitter.cpp.o"
+},
+{
+  "directory": "/Users/guanhao/VSCodeAlgorithmTrain/CMake/bmhelper/build",
+  "command": "/usr/bin/clang++ -DWXUSINGDLL -D_FILE_OFFSET_BITS=64 -D__WXMAC__ -D__WXOSX_COCOA__ -D__WXOSX__ -I/Users/guanhao/VSCodeAlgorithmTrain/CMake/bmhelper/src -I/opt/homebrew/include -isystem /opt/homebrew/lib/wx/include/osx_cocoa-unicode-3.2 -isystem /opt/homebrew/include/wx-3.2 -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -o CMakeFiles/bmhelper.dir/src/wavsplit.cpp.o -c /Users/guanhao/VSCodeAlgorithmTrain/CMake/bmhelper/src/wavsplit.cpp",
+  "file": "/Users/guanhao/VSCodeAlgorithmTrain/CMake/bmhelper/src/wavsplit.cpp",
+  "output": "CMakeFiles/bmhelper.dir/src/wavsplit.cpp.o"
+}
+]

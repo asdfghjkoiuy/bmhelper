@@ -1,4 +1,5 @@
 #include <wx/filename.h>
+#include <wx/tooltip.h>
 #include "AudioSplitter.h"
 #include "wavsplit.h"
 

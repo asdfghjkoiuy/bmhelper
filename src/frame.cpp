@@ -155,7 +155,7 @@ void FrameWindow::SetProject(Project *_project){
 		project->SetObserver(0);
 		delete project;
 	}
-	if (project = _project){
+	if (project == _project){
 		project->SetObserver(this);
 	}
 }
@@ -323,15 +323,22 @@ void FrameWindow::ProjectFileNameChanged(){
 	ProjectChangeFlagChanged();
 }
 
-void FrameWindow::ProjectChangeFlagChanged(){
-	wxString caption = project?
-		(project->Titled()?
-			(project->Changed()?
-				project->GetFileTitle() + wxString(_("* - ")) + app_name
-			: project->GetFileTitle() + wxString(_(" - ")) + app_name)
-		: wxString(_("New project* - ")) + app_name)
-	: app_name;
-	SetTitle(caption);
+void FrameWindow::ProjectChangeFlagChanged() {
+    wxString caption;
+    if (project) {
+        if (project->Titled()) {
+            if (project->Changed()) {
+                caption = project->GetFileTitle() + wxString(_("* - ")) + app_name;
+            } else {
+                caption = project->GetFileTitle() + wxString(_(" - ")) + app_name;
+            }
+        } else {
+            caption = wxString(_("New project* - ")) + app_name;
+        }
+    } else {
+        caption = app_name;
+    }
+    SetTitle(caption);
 }
 
 void FrameWindow::_Size(){

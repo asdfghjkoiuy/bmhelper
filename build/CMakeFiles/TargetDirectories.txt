@@ -1,0 +1,7 @@
+/Users/guanhao/VSCodeAlgorithmTrain/CMake/bmhelper/build/CMakeFiles/bmhelper.dir
+/Users/guanhao/VSCodeAlgorithmTrain/CMake/bmhelper/build/CMakeFiles/edit_cache.dir
+/Users/guanhao/VSCodeAlgorithmTrain/CMake/bmhelper/build/CMakeFiles/rebuild_cache.dir
+/Users/guanhao/VSCodeAlgorithmTrain/CMake/bmhelper/build/CMakeFiles/list_install_components.dir
+/Users/guanhao/VSCodeAlgorithmTrain/CMake/bmhelper/build/CMakeFiles/install.dir
+/Users/guanhao/VSCodeAlgorithmTrain/CMake/bmhelper/build/CMakeFiles/install/local.dir
+/Users/guanhao/VSCodeAlgorithmTrain/CMake/bmhelper/build/CMakeFiles/install/strip.dir

@@ -4,6 +4,7 @@
 #include "divview.h"
 
 #include <wx/dialog.h>
+#include <wx/wx.h>
 #include "divsettingdialog.h"
 
 
@@ -282,7 +283,7 @@ void DivisionSettingDialog::OnOK(wxCommandEvent &) {
     ZZNumber zz;
     bool zz_enabled = dfzz_check->GetValue();
     if (s.length() != 2 || !zz.from_string(s) || (!zz_enabled && !zz.in_ff())){
-        MessageBeep(0); // windows
+        //MessageBeep(0); // windows
         return;
     }
     this->EndDialog(wxID_OK);

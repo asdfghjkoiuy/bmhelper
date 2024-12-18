@@ -3,6 +3,9 @@ project(bmhelper)
 
 set(CMAKE_CXX_STANDARD 17)
 
+# 设置wxWidgets根目录
+set(wxWidgets_ROOT_DIR /opt/homebrew)
+
 list(APPEND CMAKE_MODULE_PATH "${CMAKE_CURRENT_LIST_DIR}/cmake")
 
 find_package(wxWidgets REQUIRED COMPONENTS core base xml)
